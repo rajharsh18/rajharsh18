@@ -4,7 +4,7 @@ I am Harsh, a student at Cluster Innovation Centre, University of Delhi, pursuin
 
 ## Recent activity
 <!--START_SECTION:activity-->
-1. Currently working on a challenge #ThinkBeyondExam in which we have to develop a product which    will detect weather a given YouTube video is of educational type or nor.
+1. Currently working on a challenge #ThinkBeyondExam in which we have to develop a product which    will detect weather a given YouTube video is of educational type or not.
 
 
 
