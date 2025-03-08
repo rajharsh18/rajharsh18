@@ -1,12 +1,13 @@
 # Hi there <img src="./Hi.gif" height="35px">
 
-I am Harsh, a student at Cluster Innovation Centre, University of Delhi, pursuing a degree in Information Technology and Mathematical Innovations with minor in management.
+I'm Harsh Raj – a passionate Full-Stack Developer and AI/ML Enthusiast 🚀.
 
-## Recent activity
-- 🌱 I’m currently learning advanced concepts of React.
+- 🎓 B.Tech @ Cluster Innovation Centre, University of Delhi (2021-2025)
+- 💡 Exploring AI, NLP, Web & App Development, and Database Engineering
+- 🛠 Skilled in React, Flask, Python, C++, SQL, Firebase, MongoDB and more
+- 📚 Researching Devanagari font generation & hallucination in LLMs
+- 💼 Founder @ StuDev | Ex-Software Developer @ Beyond Exams
 - ⚡ Fun fact: I love to listen songs.
-- 🔭 I also loves AR & Space exploration.
-
 
 **Connect with me:**
 
