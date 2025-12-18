@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Harsh Raj – a passionate Full-Stack Developer and AI/ML Enthusiast 🚀.<br>🎓 B.Tech @ Cluster Innovation Centre, University of Delhi (2021-2025)<br>💡 Exploring AI, NLP, Web & App Development, and Database Engineering<br>🛠 Skilled in React, Flask, Python, Flutter, SQL, Firebase, MongoDB and more<br>📚 Researching Devanagari font generation & hallucination in LLMs<br>💼 Founder @ StuDev | Ex-Software Developer @ Beyond Exams<br>⚡ Fun fact: I love to listen songs.
+I'm Harsh Raj – a passionate Full-Stack Developer and AI/ML Enthusiast 🚀.<br>🎓 B.Tech from Cluster Innovation Centre, University of Delhi (2021-2025)<br>💡 Exploring AI, NLP, Full Stack Development, Backend Development and Database Engineering<br>🛠 Skilled in React, Flask, FastAPI, Python, Flutter, SQL, Firebase, MongoDB and more<br>💼 Founder @ StuDev | Ex-Software Developer @ Beyond Exams<br>⚡ Fun fact: I love to listen songs.
 
 
 # 💻 Tech Stack:
