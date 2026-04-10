@@ -48,5 +48,5 @@ I'm Harsh Raj – a passionate Full-Stack Developer and AI/ML Enthusiast 🚀.<b
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rajharsh18&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=rajharsh18&theme=dark&hide_border=true" />
 </div>
